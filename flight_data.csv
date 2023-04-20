@@ -1,0 +1,21 @@
+﻿route,departure_time,departure_airport,arrival_airport,passengers
+route_A,01/01/2023 08:00,airport_A,airport_B,120
+route_A,01/01/2023 19:00,airport_A,airport_B,135
+route_A,02/01/2023 07:30,airport_A,airport_B,110
+route_A,02/01/2023 18:30,airport_A,airport_B,145
+route_A,03/01/2023 09:00,airport_A,airport_B,125
+route_B,01/01/2023 10:00,airport_A,airport_C,95
+route_B,01/01/2023 20:00,airport_A,airport_C,105
+route_B,02/01/2023 11:00,airport_A,airport_C,98
+route_B,02/01/2023 21:00,airport_A,airport_C,120
+route_B,03/01/2023 12:00,airport_A,airport_C,100
+route_C,01/01/2023 07:45,airport_B,airport_A,90
+route_C,01/01/2023 17:45,airport_B,airport_A,100
+route_C,02/01/2023 08:45,airport_B,airport_A,80
+route_C,02/01/2023 18:45,airport_B,airport_A,110
+route_C,03/01/2023 09:45,airport_B,airport_A,85
+route_D,01/01/2023 13:00,airport_B,airport_C,70
+route_D,01/01/2023 23:00,airport_B,airport_C,75
+route_D,02/01/2023 14:00,airport_B,airport_C,65
+route_D,02/01/2023 00:00,airport_B,airport_C,80
+route_D,03/01/2023 15:00,airport_B,airport_C,78
